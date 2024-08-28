@@ -1,2 +1,2 @@
-# blackjack-in-python
-Blackjack made in python (i was helped by chatgpt because im noob) [A LOT]
+I THINK ITS NOT DONE SO INSPECT MY CODE AND DO A PULL REQUEST
+i got bored of it.
